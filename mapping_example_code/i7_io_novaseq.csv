@@ -1,0 +1,6 @@
+r1,r2,i7,title
+210310LauA_D21-2416-R1_sequence.fastq.gz,210310LauA_D21-2416-R2_sequence.fastq.gz,1,rz_frg_5m
+210310LauA_D21-2417-R1_sequence.fastq.gz,210310LauA_D21-2417-R2_sequence.fastq.gz,2,rz_5m
+210310LauA_D21-2418-R1_sequence.fastq.gz,210310LauA_D21-2418-R2_sequence.fastq.gz,3,tot_5m
+210310LauA_D21-2419-R1_sequence.fastq.gz,210310LauA_D21-2419-R2_sequence.fastq.gz,4,tot_30m
+210310LauA_D21-2420-R1_sequence.fastq.gz,210310LauA_D21-2420-R2_sequence.fastq.gz,5,rz_5m_trna
